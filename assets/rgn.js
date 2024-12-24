@@ -1,4 +1,4 @@
-/*!
+/*! alyas chilli
  * Chess Assist (https://chessassist.net)
  * Copyright (c) ENDGAME SOFTWARE, LLC. All rights reserved.
  */
